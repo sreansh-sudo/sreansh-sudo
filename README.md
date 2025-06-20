@@ -8,8 +8,8 @@ Welcome to my GitHub profile — a cozy little corner where I turn coffee into c
 
 ## 🚀 What I'm About
 
-- 🛠️ **Tech Stack**: Python, C++, C, Flask, SQL, HTML/CSS
-- 🤖 **Current Focus**: Machine Learning, AI, and Supportive Web Apps
+- 🛠️ **Tech Stack**: Python, C++, C, Flask, SQL
+- 🤖 **Current Focus**: Machine Learning and AI
 - 💡 **Always Learning**: New tools, better code, and smarter systems
 
 ---
@@ -20,9 +20,6 @@ Here are a few highlights from my portfolio:
 
 ### 🔧 Support App
 > A sleek and simple support system for connecting users with help, feedback, and FAQs — built for clarity and empathy. Because everyone needs a little support.
-
-### ✅ Advanced To-Do List (C++)
-> Not your average task manager. This one's powered by OOP, STL, and proper exception handling — neat, efficient, and a little over-engineered (just the way I like it).
 
 ---
 
