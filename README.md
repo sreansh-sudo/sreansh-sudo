@@ -1,43 +1,42 @@
-# 👋 Hey, I'm Sreansh Verma!
+# Hey, I'm Sreansh Verma 👋
 
-Welcome to my GitHub profile — a cozy little corner where I turn coffee into code and ideas into projects. I’m a curious tech explorer, passionate about building smart, useful, and occasionally quirky things.
+I'm a B.Tech ECE student who got into coding and never really stopped. I build things at the intersection of AI, web, and hardware — sometimes they work great, sometimes they teach me something.
 
-> 🧠 AI + ⚙️ VLSI + 💻 Web = My sweet spot.
-
----
-
-## 🚀 What I'm About
-
-- 🛠️ **Tech Stack**: Python, C++, C, Flask, SQL
-- 🤖 **Current Focus**: Machine Learning and AI
-- 💡 **Always Learning**: New tools, better code, and smarter systems
+> AI + VLSI + Web = where I spend most of my time.
 
 ---
 
-## 🧩 Featured Projects
+## What I work with
+- **Languages**: Python, C++, C
+- **Frameworks**: FastAPI, Flask, SQL
+- **Right now**: Machine learning, agentic AI, clinical AI systems
 
-Here are a few highlights from my portfolio:
+---
+
+## Projects
+
+### 🏥 PANACEA
+ICU patient risk prediction using MIMIC-III vitals data, XGBoost, and SHAP explainability — served through a FastAPI dashboard. Built end to end: data pipeline, model training, REST API, live frontend.
+
+[→ View Repository](https://github.com/sreansh-sudo/PANACEA)
 
 ### 🔧 Support App
-> A sleek and simple support system for connecting users with help, feedback, and FAQs — built for clarity and empathy. Because everyone needs a little support.
+A support system for connecting users with help, feedback, and FAQs. Nothing fancy — just clean and functional.
 
 ---
 
-## 🧪 What I’m Experimenting With
-
-- 🎯 ML models & data pipelines
-- 🧬 Combining AI with hardware (VLSI x AI = ❤️)
-
----
-
-## 📫 Let’s Connect!
-
-Got a cool idea, some advice, or just want to say hi? I'm always up for learning and collaborating.
-
-- ✉️ **Email**: sreanshverma@gmail.com
-- 🔗 **LinkedIn**: www.linkedin.com/in/sreansh-verma-0b9647339
+## What I'm currently exploring
+- ML models and data pipelines
+- Agentic AI and LLM-powered systems
+- VLSI + AI crossover (yes, it's a thing and yes, I find it interesting)
 
 ---
 
-Thanks for scrolling by! If you liked anything here, feel free to ⭐️ it — it makes my day (and boosts the serotonin levels of my GitHub stats).
+## Get in touch
 
+- ✉️ [sreanshverma@gmail.com](mailto:sreanshverma@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sreansh-verma-0b9647339)
+
+---
+
+If something here was useful or interesting, a ⭐ goes a long way.
